@@ -1,0 +1,9 @@
+hello Dear,
+
+you find implementation of some of search and sorting algorithms in ts/js
+
+first we should make
+1 - npm install
+2 - npm build
+3 - node ./dist/index.js
+
